@@ -5,7 +5,7 @@ In this project, I use supervised learning models to identify customers who are 
 - Data Source: https://www.sgi.com/tech/mlc/db/churn.all  
 - Data info: https://www.sgi.com/tech/mlc/db/churn.names
 
-**Objective**: My goal is to understand what factors contribute most to user churn and create a model that can predict if a certain customer will leave drop the service or not. 
+**Objective**: My goal is to understand what factors contribute the most to user churn and create a model that can predict if a certain customer will drop the service or not. 
 
 **Results**:
 Please check out the project [here](https://github.com/yanxiali/User_Churn_Predictions/blob/master/User_Churn_Prediction.ipynb)
